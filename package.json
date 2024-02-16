@@ -1,0 +1,18 @@
+{
+  "name": "linkedinadslibrary-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Matt Herzog <matt@mattherzog.me> (https://mattherzog.me/)",
+  "license": "MIT",
+  "dependencies": {
+    "crawlee": "3.7.3",
+    "playwright": "1.41.2"
+  }
+}
